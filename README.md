@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-secrets-in-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Midnight Secrets In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-secrets-in-dark/) |
+| **Get License** | [Get a Licensing Quote for Midnight Secrets In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-secrets-in-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3b5f246ef5926a9fe0ab515bb3d238473508cad8bfd869ff90670daead86ce74` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
